@@ -1,0 +1,5 @@
+LISTA DE EMPLEADOS - PROYECTO ALPHA
+1. Adrián Rivas Fernández (Jefe de Proyecto)
+2. Federico Garcia Lorca (Jefe Adjunto)
+3. Pepe Hurtado Martinez (Secretario)
+Alberto Nuñez Feijo (Programador)
